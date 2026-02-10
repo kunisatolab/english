@@ -1,5 +1,0 @@
----
-title: "Code"
----
-
-We uploaded some codes to GitHub(https://github.com/ykunisato).
