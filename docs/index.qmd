@@ -1,8 +1,7 @@
 ---
-title: "ウェブサイト移動のお知らせ"
+title: "Lab Website Relocation Notice"
 format: html
 editor: visual
 ---
 
-
-計算論的臨床心理学研究室（国里愛彦研究室）のウェブサイトは，[https://coclipsy-lab.github.io/jp/](https://coclipsy-lab.github.io/jp/)に移動しました。
+The website for the Computational Clinical Psychology Lab has moved to: [https://coclipsy-lab.github.io/en/](https://coclipsy-lab.github.io/en/)
