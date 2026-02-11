@@ -1,7 +1,0 @@
----
-title: "Lab Website Relocation Notice"
-format: html
-editor: visual
----
-
-The website for the Computational Clinical Psychology Lab has moved to: [https://coclipsy-lab.github.io/en/](https://coclipsy-lab.github.io/en/)
